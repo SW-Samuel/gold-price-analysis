@@ -51,3 +51,8 @@ Some features of the model:
 The dataset used in this project contains **historical gold price data**, including daily open, high, low, close, and volume information.
 
 - **Source:** [Kaggle - Gold Price Historical Data](https://www.kaggle.com/datasets/kusumakar/gold-prices-for-5-years-financial-predictions)
+
+---
+
+> 📌 **Author:** Samuel  
+> 📅 **Last Update:** June 2025
